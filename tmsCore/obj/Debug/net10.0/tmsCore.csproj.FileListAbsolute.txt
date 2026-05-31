@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\bin\Debug\net10.0\tmsCore.exe
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\bin\Debug\net10.0\tmsCore.deps.json
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\bin\Debug\net10.0\tmsCore.runtimeconfig.json
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\bin\Debug\net10.0\tmsCore.dll
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\bin\Debug\net10.0\tmsCore.pdb
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.sourcelink.json
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.dll
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\refint\tmsCore.dll
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.pdb
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\tmsCore.genruntimeconfig.cache
+C:\Users\user\Desktop\csharp_intermidate\tmsCore\obj\Debug\net10.0\ref\tmsCore.dll
