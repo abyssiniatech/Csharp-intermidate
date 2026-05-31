@@ -1,14 +1,19 @@
 ﻿
 using System;
-class Program
+// while loop in c#
+Console.WriteLine("while loop in c#");
+int i = 0;
+do
 {
-    static void Main(){
-    //  forloop in c#
-     for(int i=0;i<=10;i++){
-         Console.WriteLine("The value of i is : " + i);
-     }
+    Console.WriteLine("Hello world");
 
-        Console.ReadLine();
-
-    }
 }
+while (i <= 5);
+i++;
+
+// moved the body actions inside the do-block
+// so the loop increments and prints each iteration
+// and the while ends with a semicolon as required
+
+
+Console.ReadLine();
